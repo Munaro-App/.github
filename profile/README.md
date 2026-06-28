@@ -153,6 +153,15 @@ flutter run
 
 ---
 
+## Team
+
+| [NE7K](https://github.com/NE7K) | [장태훈](https://github.com/Thjanga) | [박연희](https://github.com/h2st0ry) |
+| :--: | :--: | :--: |
+| ![NE7K](https://github.com/NE7K.png) | ![장태훈](https://github.com/Thjanga.png) | ![박연희](https://github.com/h2st0ry.png) |
+| **Project Lead** | **Frontend** | **Backend** |
+
+---
+
 ## 데이터 출처
 
 | 데이터명 | 제공기관 | 출처 |
