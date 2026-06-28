@@ -1,7 +1,6 @@
 <div align="center">
 
-# Munaro
-<img width="30%" height="30%" alt="아이콘" src="https://github.com/user-attachments/assets/e81b9086-a23a-4cfa-bcd8-cd8d5a702f22" />
+<img width="100%" height="100%" alt="munaro mockup" src="https://github.com/user-attachments/assets/0eac95fb-c3e4-447e-9237-cbf61f73278f" />
 
 ### 위치기반 문화유산 탐방 게임
 
