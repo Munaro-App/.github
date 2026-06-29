@@ -44,7 +44,7 @@
 
 | 시즌 랭킹 및 마이페이지 |
 |:---:|
-| <img width="904" height="802" alt="Slide 16_9 - 6" src="https://github.com/user-attachments/assets/f3c0dd3b-691d-4bc8-b2a9-2dbd0c4c2095" /> |
+| <img width="80%" height="80%" alt="시즌 랭킹 및 마이페이지" src="https://github.com/user-attachments/assets/f3c0dd3b-691d-4bc8-b2a9-2dbd0c4c2095" /> |
 
 ---
 
@@ -157,7 +157,7 @@ flutter run
 | [NE7K](https://github.com/NE7K) | [장태훈](https://github.com/Thjanga) | [박연희](https://github.com/h2st0ry) |
 | :--: | :--: | :--: |
 | ![NE7K](https://github.com/NE7K.png) | ![장태훈](https://github.com/Thjanga.png) | ![박연희](https://github.com/h2st0ry.png) |
-| **Project Lead** | **Frontend** | **Backend** |
+| **Project Lead** | **Frontend-Flutter** | **Backend-SpringBoot** |
 
 ---
 
